@@ -1,0 +1,9 @@
+langchain_openai
+langchain_core
+langchain
+langchain-community
+cassio
+python-dotenv
+astrapy
+streamlit
+ipykernel
