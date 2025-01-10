@@ -142,7 +142,6 @@ if __name__ == "__main__":
     selected_post_type = st.sidebar.selectbox("Select a post type:", post_types)
 
     if st.sidebar.button("Analyze"):
-        init_astra_connection()
         df = generate_engagement_data()
 
         db = init_db_client()
