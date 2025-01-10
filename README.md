@@ -41,6 +41,11 @@ This project leverages AI-driven analysis to evaluate social media post performa
 - Python 3.8 or above
 
 ---
+
+## Youtube Explaination Link
+
+https://youtu.be/6lCUjuw3Keg
+---
   
 ## How to use the code
 1. Clone the repository to your local machine using the following command:
